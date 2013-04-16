@@ -1,0 +1,11 @@
+#live#
+{
+#temp_in     "'field1'            : '%.1f',"#
+#wind_dir     "'field5'      : '%.0f',"#
+#wind_ave     "'field6'             : '%.1f',"#
+#wind_gust     "'field7'             : '%.1f',"#
+#hum_out      "'field8'            : '%.d',"#
+#temp_out     "'field2'              : '%.1f',"#
+#rel_pressure "'field3'               : '%.1f',"#
+#calc "rain_hour(data)" "'field4' : '%.1f',"#
+}
